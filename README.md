@@ -30,4 +30,22 @@ Ahora personas de nuestra organización no pueden ver lo que estamos haciendo, p
 ![Added](images/Added.png)
 
 ## Añadir tareas, issues, etc.
-Salimos de Settings y ahora queremos añadir nuestras tareas.
+Salimos de Settings y ahora queremos añadir nuestras tareas. Para ello debemos de clicar en el "+" que está en las filas.
+![newitem](images/newitem.png)
+Se nos darán varias opciones, o simplemente poner un nombre a este nuevo item de nuestro proyecto.
+Si elegimos la opción de añadir un issue desde repositorio, podremos elegir un issue ya creado en algún repositorio del que tengamos acceso en la organización. Automáticamente estarán todos sus datos en nuestro proyecto.
+Si por otro lado creamos un item solo con el nombre, no tendrá ningun repositorio relacionado. Para ello debemos de añadir uno en el campo de "Repository". Si no aparece, debemos de clicar el "+" de las columnas.
+![FieldView](images/FieldView.png)
+Se podrán seleccionar distintos campos para mostrar de nuestros items. Para esta ocasión tendremos seleccionados como la imagen.
+Si tenemos el campo de Repository, podremos añadir nuestro item al repositorio que queramos, creando así un nuevo issue dentro de ese repositorio.
+
+## Vistas.
+Se pueden crear varias vistas, con distintos campos y organizaciones. Por ejemplo, se puede ver como una tabla o por columnas como To Do, In Progress, Done, etc.
+Se pueden organizar en distintos grupos, asi como ordenar los grupos, etc.
+![aaaa](images/aaaa.png)
+Ejemplo de tabla:
+![tabla](images/tabla.png)
+Ejemplo de columnas:
+![kanban](images/kanban.png)
+
+
