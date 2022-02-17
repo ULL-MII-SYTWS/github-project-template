@@ -25,7 +25,7 @@ Para modificar los permisos entramos en Manage access (Parte izquierda de la pan
 
 Originalmente tenemos el proyecto como privado, asi como el rol básico de los miembros de nuestra organización como escritura, por lo que pueden modificar lo que tenemos.  
 En "Base role" modificamos de "Write" a "No access":  
-![NoAccess](images/NoAcess.png)  
+![NoAccess](images/NoAccess.png)  
 Ahora personas de nuestra organización no pueden ver lo que estamos haciendo, pero si queremos añadir a otras personas podemos utilizar el apartado de "Invite collaborators". Se escribe el nombre o el nick de Guthub de la persona que queremos añadir y el rol, y se invita, en este caso añado a los profesores de la asignatura como administrador.  
 ![Added](images/Added.png)  
 
