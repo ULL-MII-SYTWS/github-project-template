@@ -21,4 +21,13 @@ Antes de crear entradas para nuestro proyecto, en este caso no nos interesa que 
 
 En la segunda imagene de las dos anteriores, podemos ver la pantalla de ajustes de nuestro proyecto, donde podemos cambiar el nombre de nuevo, así como añadir una descripción o un README.md.  
 Para modificar los permisos entramos en Manage access (Parte izquierda de la pantalla)  
-![Access](images/Access.png)
+![Access](images/Access.png)  
+
+Originalmente tenemos el proyecto como privado, asi como el rol básico de los miembros de nuestra organización como escritura, por lo que pueden modificar lo que tenemos.  
+En "Base role" modificamos de "Write" a "No access":
+![NoAccess](images/NoAcess.png)
+Ahora personas de nuestra organización no pueden ver lo que estamos haciendo, pero si queremos añadir a otras personas podemos utilizar el apartado de "Invite collaborators". Se escribe el nombre o el nick de Guthub de la persona que queremos añadir y el rol, y se invita, en este caso añado a los profesores de la asignatura como administrador.
+![Added](images/Added.png)
+
+## Añadir tareas, issues, etc.
+Salimos de Settings y ahora queremos añadir nuestras tareas.
